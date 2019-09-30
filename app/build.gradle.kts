@@ -19,7 +19,7 @@ android {
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
     }
-    dynamicFeatures = mutableSetOf(":features:passport")
+    dynamicFeatures = mutableSetOf(":features:passport:passport")
 }
 
 dependencies {
