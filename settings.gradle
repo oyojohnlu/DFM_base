@@ -1,2 +1,2 @@
-include ':app', ':features:passport:passport'
+include ':app', ':features:passport_submodule:passport'
 rootProject.name='DynamicFeaturePoc'

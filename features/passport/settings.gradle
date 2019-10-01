@@ -1,2 +1,0 @@
-include ':app', ':passport'
-rootProject.name='feature-passport'
